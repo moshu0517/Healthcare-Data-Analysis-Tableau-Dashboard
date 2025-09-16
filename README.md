@@ -1,4 +1,4 @@
-<img width="884" height="702" alt="image" src="https://github.com/user-attachments/assets/f5477c89-2d38-4c3a-bda3-da6dc5c74357" /># Healthcare Data Analysis Dashboard
+# Healthcare Data Analysis Dashboard
 
 Interactive Tableau dashboard analyzing **patient demographics, seasonal disease patterns, and healthcare system efficiency** across a private healthcare provider. The project helps management anticipate demand, allocate resources effectively, and improve patient experience.
 
@@ -30,7 +30,7 @@ This project analyzes healthcare appointment and patient data across **34 states
 - Patients are majority **White (75%)**, with distinct visit reasons by race.
 - Balanced gender split (7,057 women, 6,190 men); most common age group: **45–64 years**.
 
-![System Overview]<img width="884" height="702" alt="image" src="https://github.com/user-attachments/assets/fdef530e-51ce-4854-b417-e0abd5a03669" />
+![System Overview](./images/system_overview.png)
 
 ![Demographics](./images/demographics.png)
 

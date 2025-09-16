@@ -30,9 +30,8 @@ This project analyzes healthcare appointment and patient data across **34 states
 - Patients are majority **White (75%)**, with distinct visit reasons by race.
 - Balanced gender split (7,057 women, 6,190 men); most common age group: **45–64 years**.
 
-![System Overview](./images/system_overview.jpg)
-
-![Demographics](./images/demographics.png)
+![System Overview](./system_overview.jpg)
+![Demographics](./demographics.jpg)
 
 ---
 
@@ -41,8 +40,8 @@ This project analyzes healthcare appointment and patient data across **34 states
 - Seasonal disease impact varies across states, affecting department capacity and drug needs.
 - Repeat visits highlight chronic conditions → opportunity to improve follow-ups.
 
-![Seasonal Disease](./images/seasonal_disease.png)
-![Repeat Patients](./images/repeat_patients.png)
+![Seasonal Disease](./seasonal_disease.jpg)  
+![Repeat Patients](./repeat_patients.jpg)  
 
 ---
 
@@ -52,8 +51,8 @@ This project analyzes healthcare appointment and patient data across **34 states
 - **Lab result turnaround** varies by state and demographics; New Jersey has the longest delays.
 - High-volume departments (Internal Medicine, Pulmonology) face longer processing times.
 
-![Provider Efficiency](./images/provider_time.png)
-![Lab Results](./images/lab_results.png)
+![Provider Efficiency](./provider_time.jpg)  
+![Lab Results](./lab_results.jpg)  
 
 ---
 

@@ -30,7 +30,7 @@ This project analyzes healthcare appointment and patient data across **34 states
 - Patients are majority **White (75%)**, with distinct visit reasons by race.
 - Balanced gender split (7,057 women, 6,190 men); most common age group: **45–64 years**.
 
-![System Overview](./images/system_overview.png)
+![System Overview](./images/system_overview.jpg)
 
 ![Demographics](./images/demographics.png)
 
